@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 607819002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a489c7819b1cb9055e06e2ea9aa42d5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtRes/Lua/LuaTable2.lua.txt
+- Assets/ArtRes/Lua/LuaTable1.lua.txt
+Dependencies: []

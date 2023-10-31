@@ -1,0 +1,4 @@
+repository "HotUpdate@echoclf@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
